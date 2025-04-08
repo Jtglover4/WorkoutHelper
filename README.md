@@ -1,16 +1,19 @@
-# workout_list
+# 💪 MuscleMap
 
-A new Flutter project.
+**MuscleMap** is a Flutter app to help you plan workouts and track which muscles you've trained using an interactive body diagram.
 
-## Getting Started
+### 🧩 Features
+- Add and manage custom workout routines
+- Mark workouts as complete and clear them easily
+- Tap on a body diagram to select muscles you've worked
 
-This project is a starting point for a Flutter application.
+### 🚀 Tech Stack
+- Flutter + Dart  
+- Material Design  
+- Stateful UI with interactive widgets
 
-A few resources to get you started if this is your first Flutter project:
+### ▶️ Getting Started
+```bash
+flutter pub get
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
